@@ -5,8 +5,11 @@
 - To test basic understanding of render lifecycles in functional components
 
 &nbsp;
-## Pre-requisites ✅
-None
+## Getting started ✅
+```
+npm i
+npm run start
+``` 
 
 &nbsp;
 ## Requirements
@@ -26,5 +29,6 @@ None
 &nbsp;
 ![screenshot](https://puu.sh/Fq16F/1ad6edff1b.png)
 
+&nbsp;
 ## Credit
 This is a codeing challange from @alexgurr.
